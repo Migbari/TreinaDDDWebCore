@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj": {}
+    "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj": {
+    "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj",
-        "projectName": "DDDCore.Infra.Data",
-        "projectPath": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj",
+        "projectName": "DDDCore.Domain",
+        "projectPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj",
         "packagesPath": "C:\\Users\\webde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,7 +40,70 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj",
+        "projectName": "DDDCore.Infra.Data",
+        "projectPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\webde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\webde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj": {
+                "projectPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.2, )"
@@ -69,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj": {
+    "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj",
+        "projectUniqueName": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj",
         "projectName": "WebAppCoreDDD",
-        "projectPath": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj",
+        "projectPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\TreinamentoDDD\\WebAppCoreDDD.csproj",
         "packagesPath": "C:\\Users\\webde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\TreinamentoDDD\\obj\\",
+        "outputPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\TreinamentoDDD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +158,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj"
+              "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Infra.Data\\DDDCore.Infra.Data.csproj"
               }
             }
           }

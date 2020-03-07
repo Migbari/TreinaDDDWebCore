@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj": {}
+    "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj": {
+    "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj",
         "projectName": "DDDCore.Domain",
-        "projectPath": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj",
+        "projectPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\DDDCore.Domain.csproj",
         "packagesPath": "C:\\Users\\webde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\webde\\source\\repos\\TreinamentoDDD\\DDDCore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\webde\\Desktop\\TreinaDDDWebCore\\TreinamentoDDD\\DDDCore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,3 +3,7 @@ C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\bin\Debug\netcorea
 C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.csprojAssemblyReference.cache
 C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.AssemblyInfoInputs.cache
 C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.AssemblyInfo.cs
+C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Infra.Data\bin\Debug\netcoreapp3.1\DDDCore.Domain.dll
+C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.csprojAssemblyReference.cache
+C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.AssemblyInfo.cs
