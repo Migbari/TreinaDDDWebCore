@@ -1,0 +1,5 @@
+C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\bin\Debug\netcoreapp3.1\DDDCore.Infra.Data.deps.json
+C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\bin\Debug\netcoreapp3.1\DDDCore.Infra.Data.dll
+C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.csprojAssemblyReference.cache
+C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\webde\source\repos\TreinamentoDDD\DDDCore.Infra.Data\obj\Debug\netcoreapp3.1\DDDCore.Infra.Data.AssemblyInfo.cs
