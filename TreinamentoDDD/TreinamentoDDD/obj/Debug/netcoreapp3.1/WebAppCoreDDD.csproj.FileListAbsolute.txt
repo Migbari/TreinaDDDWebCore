@@ -1,1 +1,0 @@
-C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\TreinamentoDDD\obj\Debug\netcoreapp3.1\WebAppCoreDDD.csprojAssemblyReference.cache

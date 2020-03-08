@@ -11,7 +11,7 @@ namespace DDDCore.Infra.Data.EntityConfig
 
             Property(d => d.Nome)
               .IsRequired()
-              .HasMaxLength(15);
+              .HasMaxLength(150);
 
             Property(d => d.TelefoneResidencial)
               .IsRequired()
@@ -22,8 +22,7 @@ namespace DDDCore.Infra.Data.EntityConfig
              .HasMaxLength(11);
 
             Property(d => d.Ativo)
-             .IsRequired()
-             .HasMaxLength(3);
+             .IsRequired();
 
             Property(d => d.Datacadastro)
              .IsRequired();

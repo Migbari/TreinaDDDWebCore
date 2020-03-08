@@ -11,7 +11,7 @@ namespace DDDCore.Infra.Data.EntityConfig
 
             Property(d => d.Nome)
               .IsRequired()
-              .HasMaxLength(15);
+              .HasMaxLength(150);
         }
     }
 }

@@ -20,7 +20,7 @@ namespace DDDCore.Infra.Data.EntityConfig
                 .HasColumnType("char");
 
             Property(p => p.Nota)
-                .HasColumnType("decimal(3,1)");        
+                .HasColumnType("decimal").HasPrecision(3, 1);       
         }
     }
 }
