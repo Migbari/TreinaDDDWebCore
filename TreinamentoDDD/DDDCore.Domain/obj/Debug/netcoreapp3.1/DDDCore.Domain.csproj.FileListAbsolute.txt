@@ -1,7 +1,6 @@
 C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Domain\bin\Debug\netcoreapp3.1\DDDCore.Domain.deps.json
 C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Domain\bin\Debug\netcoreapp3.1\DDDCore.Domain.dll
 C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Domain\bin\Debug\netcoreapp3.1\DDDCore.Domain.pdb
-C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Domain\obj\Debug\netcoreapp3.1\DDDCore.Domain.csprojAssemblyReference.cache
 C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Domain\obj\Debug\netcoreapp3.1\DDDCore.Domain.AssemblyInfoInputs.cache
 C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Domain\obj\Debug\netcoreapp3.1\DDDCore.Domain.AssemblyInfo.cs
 C:\Users\webde\Desktop\TreinaDDDWebCore\TreinamentoDDD\DDDCore.Domain\obj\Debug\netcoreapp3.1\DDDCore.Domain.dll

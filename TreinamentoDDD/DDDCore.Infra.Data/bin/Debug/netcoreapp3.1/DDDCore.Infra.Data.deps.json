@@ -953,6 +953,9 @@
         }
       },
       "DDDCore.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.2"
+        },
         "runtime": {
           "DDDCore.Domain.dll": {}
         }
